@@ -1,0 +1,10 @@
+19:21:02.041 [main] INFO  testCases.TC001_Registration - # Clicked on MyAccount link #
+19:21:02.617 [main] INFO  testCases.TC001_Registration - # Clicked on Register link #
+19:21:02.627 [main] INFO  testCases.TC001_Registration - # Providing customer information #
+19:21:03.940 [main] INFO  testCases.TC001_Registration - # Validating expected message #
+19:21:03.975 [main] INFO  testCases.TC001_Registration - ###### Finished TC001_Registration ######
+19:21:09.631 [main] INFO  testCases.TC002_LoginTest - ###### Starting T002_LoginTest ######
+19:21:10.085 [main] INFO  testCases.TC002_LoginTest - # Clicked Login #
+19:21:10.270 [main] INFO  testCases.TC002_LoginTest - # Inserted Customers Credentials #
+19:21:11.024 [main] INFO  testCases.TC002_LoginTest - # Logout from Personal Account #
+19:21:11.573 [main] INFO  testCases.TC002_LoginTest - ###### Ended T002_LoginTest ######

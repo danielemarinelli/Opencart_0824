@@ -1,0 +1,59 @@
+20:12:49.100 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\marin\AutomationProjects\Automation\Opencart\MasterTestRunner.xml
+
+20:12:56.550 [main] INFO  testCases.TC001_Registration - ###### Starting TC001_Registration ######
+20:12:56.694 [main] INFO  testCases.TC001_Registration - # Clicked on MyAccount link #
+20:12:57.609 [main] INFO  testCases.TC001_Registration - # Clicked on Register link #
+20:12:57.613 [main] INFO  testCases.TC001_Registration - # Providing customer information #
+20:12:59.371 [main] INFO  testCases.TC001_Registration - # Validating expected message #
+20:12:59.428 [main] INFO  testCases.TC001_Registration - ###### Finished TC001_Registration ######
+20:13:05.648 [main] INFO  testCases.TC002_LoginTest - ###### Starting T002_LoginTest ######
+20:13:06.198 [main] INFO  testCases.TC002_LoginTest - # Clicked Login #
+20:13:06.555 [main] INFO  testCases.TC002_LoginTest - # Inserted Customers Credentials #
+20:13:07.445 [main] INFO  testCases.TC002_LoginTest - # Logout from Personal Account #
+20:13:08.159 [main] INFO  testCases.TC002_LoginTest - ###### Ended T002_LoginTest ######
+20:22:08.932 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\marin\AutomationProjects\Automation\Opencart\ParallelTestRunner.xml
+
+20:22:16.746 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ###### Starting T002_LoginTest ######
+20:22:16.746 [TestNG-tests-1] INFO  testCases.TC001_Registration - ###### Starting TC001_Registration ######
+20:22:16.994 [TestNG-tests-1] INFO  testCases.TC001_Registration - # Clicked on MyAccount link #
+20:22:31.163 [TestNG-tests-1] ERROR testCases.TC001_Registration - %% Test Failed!!! %%
+20:22:39.709 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ###### Starting T002_LoginTest ######
+20:22:40.085 [TestNG-tests-2] INFO  testCases.TC001_Registration - ###### Starting TC001_Registration ######
+20:22:40.333 [TestNG-tests-2] INFO  testCases.TC001_Registration - # Clicked on MyAccount link #
+20:22:54.540 [TestNG-tests-2] ERROR testCases.TC001_Registration - %% Test Failed!!! %%
+20:23:04.341 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ###### Starting T003_LoginDDT_Test ######
+20:23:05.316 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - # Clicked Login #
+20:23:05.574 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - # Inserted Customers Credentials #
+20:23:07.401 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ###### Finished T003_LoginDDT_Test ######
+20:23:07.408 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ###### Starting T003_LoginDDT_Test ######
+20:23:07.862 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - # Clicked Login #
+20:23:08.127 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - # Inserted Customers Credentials #
+20:23:15.815 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ###### Finished T003_LoginDDT_Test ######
+20:23:15.818 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ###### Starting T003_LoginDDT_Test ######
+20:23:16.657 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - # Clicked Login #
+20:23:16.951 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - # Inserted Customers Credentials #
+20:23:18.582 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ###### Finished T003_LoginDDT_Test ######
+20:23:18.586 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ###### Starting T003_LoginDDT_Test ######
+20:23:19.305 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - # Clicked Login #
+20:23:19.799 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - # Inserted Customers Credentials #
+20:23:27.451 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ###### Finished T003_LoginDDT_Test ######
+19:11:40.540 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\marin\AutomationProjects\Automation\Opencart\MasterTestRunner.xml
+
+19:11:48.987 [main] INFO  testCases.TC001_Registration - ###### Starting TC001_Registration ######
+19:11:49.091 [main] INFO  testCases.TC001_Registration - # Clicked on MyAccount link #
+19:11:49.672 [main] INFO  testCases.TC001_Registration - # Clicked on Register link #
+19:11:49.684 [main] INFO  testCases.TC001_Registration - # Providing customer information #
+19:11:51.107 [main] INFO  testCases.TC001_Registration - # Validating expected message #
+19:11:51.152 [main] INFO  testCases.TC001_Registration - ###### Finished TC001_Registration ######
+19:11:56.528 [main] INFO  testCases.TC002_LoginTest - ###### Starting T002_LoginTest ######
+19:11:57.195 [main] INFO  testCases.TC002_LoginTest - # Clicked Login #
+19:11:57.381 [main] INFO  testCases.TC002_LoginTest - # Inserted Customers Credentials #
+19:11:58.166 [main] INFO  testCases.TC002_LoginTest - # Logout from Personal Account #
+19:11:58.726 [main] INFO  testCases.TC002_LoginTest - ###### Ended T002_LoginTest ######
+19:20:56.195 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\marin\AutomationProjects\Automation\Opencart\MasterTestRunner.xml
+
+19:21:01.938 [main] INFO  testCases.TC001_Registration - ###### Starting TC001_Registration ######
